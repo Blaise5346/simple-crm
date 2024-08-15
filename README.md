@@ -16,7 +16,7 @@ Install Python 3.x from the official Python website.
 Install the Tkinter library by running pip install tk.
 Install the openpyxl library by running pip install openpyxl.
 Usage
-Clone the repository using git clone [https://github.com/your-username/CRM-Login-Application.git](https://github.com/Blaise5346/simple-crm.git)
+Clone the repository using git clone https://github.com/Blaise5346/simple-crm.git
 Navigate to the project directory using cd CRM-Login-Application.
 Run the application using python main.py.
 Code Structure
